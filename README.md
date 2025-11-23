@@ -2,12 +2,18 @@
 
 ### A passionate developer from Mumbai.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Capstone Project
+- 🌱 I’m currently learning Data Analysis
+- 🤔 I’m looking for help with building details reports with the help of deiiferent tools
 - 📫 How to reach me:[+91 9326935101] (apurvak162@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Its always a fun todeal with large data
 -->
+
+## My Tech Stack
+Here are few technologies I've been working with recently :
+
+•	Power Bi
+•	Python
+•	SQL
+
+
