@@ -16,4 +16,7 @@ Here are few technologies I've been working with recently :
 •	Python
 •	SQL
 
+## Connect with me 
+
+https://www.linkedin.com/in/apurva-kadam-185a33206/ 
 
