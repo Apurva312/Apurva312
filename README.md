@@ -12,9 +12,18 @@
 ## My Tech Stack
 Here are few technologies I've been working with recently :
 
-•	Power Bi
-•	Python
-•	SQL
+•	Programming: Python (Pandas, NumPy)
+
+•	Querying: SQL (Joins, CTEs, Window Functions)
+
+•	Visualization: Power BI, Excel Dashboards
+
+•	Data Tools: Excel (VLOOKUP, Pivot Table, Power Query)
+
+•	Databases: MySQL
+
+•	Analytics: EDA, KPI Design, Data Cleaning & Preparation
+
 
 ## Connect with me 
 
