@@ -2,7 +2,7 @@
 
 ### A passionate developer from Mumbai.
 
-- 🌱 I have completed by Data Analysis Course. 
+- 🌱 I have completed my Data Analysis Course. 
 - 🤔 I’m looking for help to build detailed reports with the help of different tools
 - 📫 How to reach me:[+91 9326935101] (apurvak162@gmail.com)
 - ⚡ **Passionate and Persistent learner**
